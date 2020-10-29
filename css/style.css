@@ -1,0 +1,26 @@
+body{
+  background-color: #f4f6ff;
+}
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-width: thick;
+  width: 5%;
+  border-color: grey;
+}
+h1{
+  color: #006a71;
+}
+h2{
+  color: #4f8a8b;
+}
+h3{
+  color: #4f8a8b;
+}
+.anjali{
+  border-spacing: 1px;
+  border-width: thick;
+  border-style: hidden;
+  border-collapse: collapse;
+  border-color: black;
+}
